@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+
+.filter-area{
+  padding: 2% 6px;
+  background-color: honeydew;
+}
+.MuiSelect-select{
+  padding-right: 49px;
+  font-size: 1.2rem;
+  text-transform: capitalize;
+}
+
